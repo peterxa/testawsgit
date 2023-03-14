@@ -1,3 +1,4 @@
 datos de pruebas
 actualizado
 nuevo trabajo
+cuenta aws para el almacenamiento
