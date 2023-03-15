@@ -9,6 +9,6 @@
     <script src='main.js'></script>
 </head>
 <body>
-    <strong>Pagina de pruebas</strong>
+    <strong><?php echo '<p>Hola Mundo</p>'; ?></strong>
 </body>
 </html>
